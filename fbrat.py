@@ -1,3 +1,7 @@
+##C0D3D by BJORNx
+##SPREADtheLOVE
+##HAPPY HACKING 
+
 import os
 import requests
 from concurrent.futures import ThreadPoolExecutor
@@ -1323,7 +1327,7 @@ def menu():
   print("")
 print("\033[1;31;36m__________________________________________________________")
 print("")
-print("\033[1;31;40m-----------FACEBOOK HACKINH TOOL 2024-------------------------BY BJORNx---------------------")
+print("\033[1;31;40m-----------FACEBOOK HACKING TOOL 2024-------------------------BY BJORNx---------------------")
 print("\033[1;31;36m__________________________________________________________")
 input("\033[0;31;40m YOUR FILE PATH:")
 print("\033[1;31;36m_____________________________________________________")
